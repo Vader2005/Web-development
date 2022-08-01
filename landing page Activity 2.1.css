@@ -2,6 +2,7 @@
     width: 60%;
     height: 80%;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #nav {
@@ -14,6 +15,32 @@
 
 .button {
     font-size: 19px;
+    padding-left: 10px;
     color: #003b63;
+}
+
+#text {
+    font-size: 45px;
+    text-align: center;
+    font-family: Arial;
+}
+
+#menu {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.button2 {
+    padding-left: 40px;
+    margin-bottom: 30px;
+    font-size: 19px;
+    color: #003b63;
+}
+
+#footer {
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background-color: #ed107f;
 }
 
