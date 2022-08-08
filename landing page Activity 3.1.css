@@ -35,6 +35,11 @@ body {
 }
 
 #logo {
-    float: left;
+    float: left; 
+}
+
+.navbar {
+    background: #bd1e43;
+    height: 19vh;
 }
 
