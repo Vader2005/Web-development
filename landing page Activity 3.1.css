@@ -48,7 +48,14 @@ body {
     height: 80%;
     margin-top: 30px;
     margin-bottom: 30px;
+    padding-bottom: 50px;
     position: absolute;
     left: 0px;
+}
+
+#text {
+    font-size: 20px;
+    padding-top: 650px;
+    text-align: center;
 }
 
